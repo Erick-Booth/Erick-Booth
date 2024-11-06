@@ -1,2 +1,2 @@
 # Hi 👋, I'm Erick!
-## I design and code stuff :)
+Web Developer at Precor, creative designer, NextJS enthusiast.
